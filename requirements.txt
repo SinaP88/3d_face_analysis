@@ -1,0 +1,14 @@
+opencv-python==4.0.1.24
+matplotlib
+numpy
+imageio
+imageio-ffmpeg
+pyyaml
+tqdm
+argparse
+cython
+scikit-image
+scipy
+Flask
+onnxruntime
+gradio
